@@ -1,0 +1,29 @@
+{
+    "auto_update_db": true,
+    "notify_updates": true,
+    "signature_version": "1.0.0",
+    "last_update_check": null,
+    "manual_update_file_path": "F:\\ATSS\\dummy_threat_files",
+    "high_risk_action": "Delete",
+    "medium_risk_action": "Quarantine",
+    "low_risk_action": "Quarantine",
+    "scan_archives": true,
+    "enable_ai_detection": true,
+    "default_scan_paths": [],
+    "scan_exclusions": [],
+    "enabled_scan_types": {
+        "quick_scan": true,
+        "full_scan": true,
+        "custom_scan": true,
+        "zero_day_scan": true
+    },
+    "notify_threats": true,
+    "sound_alert": true,
+    "theme": "Light",
+    "show_scan_progress": true,
+    "schedule_enabled": false,
+    "scan_interval_hours": 24,
+    "scheduled_scanning_frequency": "Daily",
+    "scheduled_scan_time": "06:45",
+    "force_offline_mode": false
+}
